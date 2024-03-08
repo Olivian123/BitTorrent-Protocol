@@ -33,8 +33,8 @@ and what chunks they have, after that it requests 10 chunks from one
 of them. It then updates the tracker of what chunks it got and
 contiunes the shearch. The upload 
 
-    There are utility functions for memory allocation, deallocation, and
-communication.
+   There are utility functions for memory allocation, deallocation,
+and communication.
 
 Communication Channels
 INIT_CHANNEL (1): Initialization channel for sending 
